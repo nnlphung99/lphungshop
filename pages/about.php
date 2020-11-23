@@ -7,12 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        echo'<h1 style="color: red;">Xin Chao</h1>';
-    ?>
-
-    <a href="pages/about.php">Gioi thieu</a><br>
-    <a href="pages/contact.php">Lien he</a>
-    
+    <h1>Gioi thieu</h1>
+    <a href="../index.php">Quay ve trang chu</a>
 </body>
 </html>
