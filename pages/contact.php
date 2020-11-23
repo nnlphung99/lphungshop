@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Lien he</h1>
-    <a href="../index.php">Lien he</a>
+    <a href="../index.php">Quay ve trang chu</a>
 </body>
 </html>
